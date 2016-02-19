@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>io.mikesir87</groupId>
-  <artifactId>headless-greenfoot</artifactId>
+  <artifactId>headless-greenfoot-sofia</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <dependencies>
